@@ -1,1 +1,2 @@
-# xpense-starter
+# npm i 
+# npm start
